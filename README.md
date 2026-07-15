@@ -217,12 +217,3 @@ Seluruh endpoint berhasil berjalan sesuai dengan fungsinya.
 
 Project ini dibuat untuk memenuhi tugas **UAS Pemrograman Web Lanjut** Program Studi Informatika, Fakultas Teknik, Universitas Sarjanawiyata Tamansiswa.
 
----
-
-## 👨‍💻 Developer
-
-**Verdi Nugroho**
-
-Universitas Sarjanawiyata Tamansiswa
-
-Tahun 2026
